@@ -1,0 +1,6 @@
+@RestConnection_HostAddress = http://localhost:5028
+
+GET {{RestConnection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
